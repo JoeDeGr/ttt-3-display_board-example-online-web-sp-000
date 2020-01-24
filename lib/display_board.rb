@@ -5,3 +5,4 @@ def displayboard = "   |   |
      -----------
         |   |   "
       end
+      displayboard
