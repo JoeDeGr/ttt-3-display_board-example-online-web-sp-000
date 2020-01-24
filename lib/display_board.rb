@@ -6,4 +6,4 @@ puts "   |   |
 -----------
    |   |   "
       end
-      display_board
+display_board
